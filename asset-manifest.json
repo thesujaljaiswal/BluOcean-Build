@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.41810c23.css",
-    "main.js": "/static/js/main.8c5d90b4.js",
+    "main.js": "/static/js/main.9b0fe044.js",
     "static/media/Five Star Hotel Seaport.jpg": "/static/media/Five Star Hotel Seaport.f714a4a878503d258012.jpg",
     "static/media/seaport.jpg": "/static/media/seaport.5b5c65b089846f388c78.jpg",
     "static/media/Cruise Ship Management.jpg": "/static/media/Cruise Ship Management.f89eede6dfcd57b5f4a9.jpg",
@@ -11,18 +11,18 @@
     "static/media/e2.png": "/static/media/e2.73590347a9818365d72b.png",
     "static/media/our-vision.png": "/static/media/our-vision.cf199057f32bd719b20d.png",
     "static/media/Oil Rig Offshore.png": "/static/media/Oil Rig Offshore.539ed73bcffe9d396f0b.png",
-    "static/media/blu ocean logo.png": "/static/media/blu ocean logo.83456722c43f9d6f3fea.png",
     "static/media/images.jpg": "/static/media/images.0527cb3ead41c1c09bd6.jpg",
     "static/media/complaint.jpg": "/static/media/complaint.78ccc082122cd6cf2fa3.jpg",
     "static/media/termal power plant seaport.jpg": "/static/media/termal power plant seaport.4413f25564d6ce069843.jpg",
     "static/media/ship.jpg": "/static/media/ship.3bb0f883c6ef7dc6813a.jpg",
     "static/media/shipyard.jpg": "/static/media/shipyard.d814603c31a77719a74e.jpg",
+    "static/media/blu ocean logo.png": "/static/media/blu ocean logo.038e484528c1b4e5953d.png",
     "index.html": "/index.html",
     "main.41810c23.css.map": "/static/css/main.41810c23.css.map",
-    "main.8c5d90b4.js.map": "/static/js/main.8c5d90b4.js.map"
+    "main.9b0fe044.js.map": "/static/js/main.9b0fe044.js.map"
   },
   "entrypoints": [
     "static/css/main.41810c23.css",
-    "static/js/main.8c5d90b4.js"
+    "static/js/main.9b0fe044.js"
   ]
 }
